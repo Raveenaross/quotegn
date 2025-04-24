@@ -1,4 +1,3 @@
-Static website build using HTML , CSS and Javascript 
 
 ![Screenshot 2024-06-28 00 20 34](https://github.com/Raveenaross/quotegn/assets/166907857/71666091-2c81-4bc1-ac69-66ec00644a8f)
 
